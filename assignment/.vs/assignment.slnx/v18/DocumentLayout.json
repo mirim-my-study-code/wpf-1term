@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mirim\\source\\repos\\assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{614AF5D9-703D-8F03-CE27-C94E05E9C1E3}|assignment\\assignment.csproj|c:\\users\\mirim\\source\\repos\\assignment\\assignment\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{614AF5D9-703D-8F03-CE27-C94E05E9C1E3}|assignment\\assignment.csproj|solutionrelative:assignment\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AF5D9-703D-8F03-CE27-C94E05E9C1E3}|assignment\\assignment.csproj|c:\\users\\mirim\\source\\repos\\assignment\\assignment\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AF5D9-703D-8F03-CE27-C94E05E9C1E3}|assignment\\assignment.csproj|solutionrelative:assignment\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 256,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Mirim\\source\\repos\\assignment\\assignment\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "assignment\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Mirim\\source\\repos\\assignment\\assignment\\MainWindow.xaml",
+              "RelativeToolTip": "assignment\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-09T04:31:16.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 256,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mirim\\source\\repos\\assignment\\assignment\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "assignment\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Mirim\\source\\repos\\assignment\\assignment\\MainWindow.xaml.cs",
+              "RelativeToolTip": "assignment\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T04:31:16.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
